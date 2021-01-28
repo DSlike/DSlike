@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello! I'm Daniel! 🤘🏻  
+I'm currently working on some cool stuff that I can't tell you about 🤪
 
 <!--
 **DSlike/DSlike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
