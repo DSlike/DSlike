@@ -1,6 +1,8 @@
 # Hello! I'm Daniel! 🤘🏻  
 I'm currently working on some cool stuff that I can't tell you about 🤪
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dslike&count_private=true&show_icons=true)
 <!--
 **DSlike/DSlike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
