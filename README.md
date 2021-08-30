@@ -1,8 +1,15 @@
-# Hello! I'm Daniel! 🤘🏻  
-I'm currently working on some cool stuff that I can't tell you about 🤪
+# Hello! I'm Daniel! 🤘🏻
+
+I have successfully implemented a lot of applications and websites for various industries for both enterprise solutions and startups.
+
+I have experience in developing Restful API services and custom data generators, as well as in implementing front-ends using ReactJS (simple landing pages, heavy constructors, enterprise control panels, and 3D digital twins of enterprise).
+
+Currently I'm working in Sekai Digital Twins
+
+Here is [my small website to contact](http://daniel-votintsev.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dslike&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dslike&count_private=true&show_icons=true&theme=dark)
 <!--
 **DSlike/DSlike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
