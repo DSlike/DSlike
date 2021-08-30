@@ -8,7 +8,8 @@ I have experience in developing Restful API services and custom data generators,
 Currently I'm working in Sekai Digital Twins
 
 Here is [my small website to contact](http://daniel-votintsev.com)
-Contact me via [email](mailto:daniel.votintsev@gmail.com)
+
+Or ontact me via [email](mailto:daniel.votintsev@gmail.com)
 
 
 ![DSlike GitHub stats](https://github-readme-stats.vercel.app/api?username=dslike&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
