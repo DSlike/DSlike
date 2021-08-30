@@ -12,8 +12,8 @@ Here is [my small website to contact](http://daniel-votintsev.com)
 Or contact me via [email](mailto:daniel.votintsev@gmail.com)
 
 
-![DSlike GitHub stats](https://github-readme-stats.vercel.app/api?username=dslike&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dslike&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+![DSlike GitHub stats](https://github-readme-stats.vercel.app/api?username=dslike&count_private=true&show_icons=true&bg_color=30,48b1bf,06beb6&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dslike&layout=compact&bg_color=30,48b1bf,06beb6&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DSlike/DSlike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
