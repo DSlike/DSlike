@@ -1,31 +1,37 @@
-# Hello! I'm Daniel! 🤘🏻
-Fullstack JS developer
+
+# Hello, I'm Daniel! 🤘🏻
+a Full-stack JS developer
 
 I have successfully implemented a lot of applications and websites for various industries for both enterprise solutions and startups.
 
 I have experience in developing Restful API services and custom data generators, as well as in implementing front-ends using ReactJS (simple landing pages, heavy constructors, enterprise control panels, and 3D digital twins of enterprise).
 
-Currently I'm working in Sekai Digital Twins
+Currently, I'm working in Sekai Digital Twins
 
-Here is [my small website to contact](http://daniel-votintsev.com)
 
-Or contact me via [email](mailto:daniel.votintsev@gmail.com)
+### Contact me
 
+[<img align="left" alt="email" src="https://img.shields.io/badge/email-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:daniel.votintsev@gmail.co)
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniel-%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%BB%D1%8C-votintsev-91384b131)
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@D_Slike)
+
+[<img align="left" alt="my website" src="https://img.shields.io/badge/My website-546A7B.svg?&style=for-the-badge" />](http://daniel-votintsev.com)
+
+-
+
+### My Main Tech Stack
+
+<img align="left" alt="react" src="https://img.shields.io/badge/mongodb%20-%2320232a.svg?&style=for-the-badge&logo=mongodb" />
+<img align="left" alt="react" src="https://img.shields.io/badge/expressjs-white.svg?&style=for-the-badge&logo=express&logoColor=black" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+
+-
+
+### Some Stats
 
 ![DSlike GitHub stats](https://github-readme-stats.vercel.app/api?username=dslike&count_private=true&show_icons=true&bg_color=30,48b1bf,06beb6&title_color=fff&text_color=fff&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dslike&layout=compact&bg_color=30,48b1bf,06beb6&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**DSlike/DSlike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
