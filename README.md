@@ -32,6 +32,6 @@ Currently, I'm working in Sekai Digital Twins
 
 ### Some Stats
 
-![DSlike GitHub stats](https://github-readme-stats.vercel.app/api?username=dslike&count_private=true&show_icons=true&bg_color=30,48b1bf,06beb6&title_color=fff&text_color=fff&include_all_commits=true)
+![DSlike GitHub stats](https://github-readme-stats.vercel.app/api?username=dslike&count_private=true&show_icons=true&bg_color=30,48b1bf,06beb6&title_color=fff&text_color=fff)
 
 
