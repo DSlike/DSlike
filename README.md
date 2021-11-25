@@ -28,10 +28,5 @@ Currently, I'm working in Sekai Digital Twins
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
--
-
-### Some Stats
-
-![DSlike GitHub stats](https://github-readme-stats.vercel.app/api?username=dslike&count_private=true&show_icons=true&bg_color=30,48b1bf,06beb6&title_color=fff&text_color=fff)
 
 
