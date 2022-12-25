@@ -13,7 +13,7 @@ Currently, I'm working in Sekai Digital Twins
 
 [<img align="left" alt="email" src="https://img.shields.io/badge/email-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:daniel.votintsev@gmail.co)
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniel-%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%BB%D1%8C-votintsev-91384b131)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniel-votintsev/)
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@D_Slike)
 
